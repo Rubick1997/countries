@@ -1,0 +1,18 @@
+#flag {
+  width: 210px;
+  height: 140px;
+}
+
+#countryContainer {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  display: flex;
+}
+
+#countryCard {
+  padding: 5px
+}
+
+p {
+  text-align: justify;
+}
